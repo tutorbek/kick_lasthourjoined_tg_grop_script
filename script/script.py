@@ -5,10 +5,10 @@ from telethon.tl.functions.channels import GetParticipantRequest, EditBannedRequ
 from telethon.tl.types import ChatBannedRights
 from datetime import datetime, timedelta, timezone
 
-api_id = 1157038        # <-- o'zingizniki
-api_hash = "b77b40e55f2834789e50bccdf0e1376e"    # <-- o'zingizniki
+api_id = "YourId:        # <-- o'zingizniki
+api_hash = "API_HASH"    # <-- o'zingizniki
 
-group = "https://t.me/CafeHalovat"  # yoki group ID
+group = "https://t.me/YourGrop"  # yoki group ID
 
 
 

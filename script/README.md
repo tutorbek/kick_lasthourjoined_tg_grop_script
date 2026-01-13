@@ -1,0 +1,1 @@
+# kick_lasthourjoined_tg_grop_script
